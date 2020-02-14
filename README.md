@@ -1,1 +1,5 @@
-"# Parcial" 
+# Parcial
+
+## Author
+
+- Sergio Alejandro Nuñez Mendivelso
